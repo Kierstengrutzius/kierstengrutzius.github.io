@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Kiersten Grutzius"
-  avatar : "/assets/images/IMG_7099.PNG"
+  avatar : "/assets/images/IMG_7099.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
